@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Cinema">
+    <Position X="6.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAEgEAAgAAAAAAIAAAAEAAAAAACBCqAAAAA=</HashCode>
+      <FileName>Cinema.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cinema_Hall">
+    <Position X="9.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAEAAAAAAAABAAAAAAAAAAgAAAAQKgCMAACAA=</HashCode>
+      <FileName>Cinema_Hall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console_GUI">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAAASAAQggAAAACBACAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Console_GUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movie">
+    <Position X="0.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIhBAAAgAAACMACCAABAgQAEAQAAAARCIAAoCIIAAAg=</HashCode>
+      <FileName>Movie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movie_Session">
+    <Position X="4" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAGAAAACAAAAAAQAAAAIAAAQAAgAABAAAAAQ=</HashCode>
+      <FileName>Movie_Session.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Categories">
+    <Position X="7.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAACAAgAAIIAAhwAAAAAAAAARAAAAAEAAAAA=</HashCode>
+      <FileName>Movie.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
